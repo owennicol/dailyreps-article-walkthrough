@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://popular-corgi-5.clerk.accounts.dev",
+      domain: "https://superb-walleye-0.clerk.accounts.dev",
       applicationID: "convex"
     }
   ]
